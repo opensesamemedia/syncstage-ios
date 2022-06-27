@@ -427,7 +427,7 @@
 			repositoryURL = "https://github.com/opensesamemedia/SyncStageSDKSwiftPackage.git";
 			requirement = {
 				kind = upToNextMajorVersion;
-				minimumVersion = 0.0.4;
+				minimumVersion = 0.0.5;
 			};
 		};
 /* End XCRemoteSwiftPackageReference section */
